@@ -5,3 +5,4 @@ cd ..
 rm -rf .git
 
 node main
+   
